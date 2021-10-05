@@ -1,7 +1,7 @@
 - Hi, I’m @LDInit
 - I’m interested in python development and test automation
 - I’m currently learning test automation frameworks
-- I’m looking to collaborate on web python project like a QA engeneer 
+- I’m looking to collaborate on web python project like a QA engineer 
 - 📩 You can reach me on telegram @LDInit
 
 <!---
